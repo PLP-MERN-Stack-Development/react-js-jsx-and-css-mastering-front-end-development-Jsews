@@ -55,7 +55,7 @@ GET https://jsonplaceholder.typicode.com/posts?_limit=6
 🌍 Deployment
 
 Deployed on Netlify
-🔗 Live URL: [https://week3mern-flourishing-crumble-d3fcae.netlify.app/]
+🔗 Live URL="https://week3mern-flourishing-crumble-d3fcae.netlify.app/"
 
 🧰 Tech Stack
 
