@@ -52,14 +52,10 @@ Example request:
 
 GET https://jsonplaceholder.typicode.com/posts?_limit=6
 
-📸 Screenshots
-Light Mode	Dark Mode
-
-	
 🌍 Deployment
 
-Deployed on Vercel or Netlify
-🔗 Live URL: [Your Deployment Link Here]
+Deployed on Netlify
+🔗 Live URL: [https://week3mern-flourishing-crumble-d3fcae.netlify.app/]
 
 🧰 Tech Stack
 
